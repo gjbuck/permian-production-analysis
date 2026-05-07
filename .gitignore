@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (too big for GitHub)
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.parquet
+
+# Keep small example data
+!data/sample/
+!data/README.md
+
+# Secrets
+.env
+*.key
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
