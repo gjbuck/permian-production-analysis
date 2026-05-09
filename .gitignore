@@ -9,6 +9,7 @@ venv/
 .ipynb_checkpoints/
 
 # Data files (too big for GitHub)
+data/*.zip
 data/raw/
 data/processed/
 *.csv
