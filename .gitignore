@@ -8,7 +8,7 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data files (too big for GitHub)
+# Data files
 data/*.zip
 data/raw/
 data/processed/
